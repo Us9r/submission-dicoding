@@ -27,8 +27,6 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-# Dicoding Collection Dashboard ✨
-
 ## Setup Environment - Anaconda
 ```
 conda create --name main-ds python=3.9
